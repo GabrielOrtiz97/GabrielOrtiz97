@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @GabrielOrtiz97
+- 👀 I’m interested in Python and Database with SQL Server, Oracle PL/SQL and more....
+- 🌱 I’m currently learning Python and PL/SQL
